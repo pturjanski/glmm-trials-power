@@ -2,8 +2,8 @@
 # Script Name:    generate_empirical_power_plots_GLMM.R
 # Description:    This script performs the data processing and statistical
 #                 analysis for the manuscript titled:
-#                 "Why ignoring data structure can lead to flawed statistical 
-#                  analysis: an application in epidemiological research"
+#                 "Why accounting for data clustering matters in parasitology: simulation-based insights
+#                  from hierarchical infection models"
 #
 #                 In particular, it focuses on the generation of graphs of 
 #                 empirical power obtained from the dataframe containing the 
@@ -18,11 +18,11 @@
 #                 *Corresponding Author 
 #
 # Date Created:   2025-03-31
-# Last Modified:  2025-03-31
-# Version:        1.0
+# Last Modified:  2026-05-19
+# Version:        1.1
 #------------------------------------------------------------
 # Notes:
-# - This script is intended to be run in R version 4.4.1
+# - This script is intended to be run in R version 4.6.0
 # - Ensure all required packages are installed before execution.
 
 
